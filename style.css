@@ -1,0 +1,57 @@
+.size {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+
+}
+
+h1 {
+    font-size: 300%;
+}
+
+.specific {
+    color: orange;
+
+}
+
+.picture {
+
+
+
+    width: 550px;
+    height: 600px;
+
+}
+
+
+
+section {
+    display: flex;
+
+
+}
+
+.design {
+    width: 50%;
+    position: relative;
+    left: 60px;
+    top: 100%;
+
+    padding-top: 10%;
+
+
+
+
+}
+
+.design img {
+    width: 90%;
+    height: 90%;
+}
+
+.modify {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px;
+    border-radius: 10px;
+}
